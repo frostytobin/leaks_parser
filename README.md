@@ -8,6 +8,10 @@ This python script is a parser for the latest data dumps collections #1, #2-5, A
 
 It will parse text files from data dumps and will create a sqlite database.
 
+## Dependencies
+
+Requires python module validate_email (pip install validate_email)
+
 ## How to use
 
 The script and the empty database must be moved to the root folder where collections have been decompressed:
